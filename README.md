@@ -2,13 +2,6 @@
 
 This project aims to explore and analyze the pricing patterns and market segmentation of used cars in India, using real-world data scraped from the Cars24 Chennai website. By applying data analytics techniques and tools such as Power Automate Desktop, Python, Excel, and Power BI, the study offers valuable insights for buyers, sellers, and dealers in the used car market.
 
-## 📌 Project Overview
-
-- **Title:** A Data-Driven Analysis of Used Cars  
-- **Author:** Kandan S  
-- **Institution:** Pondicherry University (MBA - Data Analytics)  
-- **Supervisor:** Dr. J. Rama Krishna Naik, Professor, Dept. of Management Studies
-
 ## 🧠 Objective
 
 - Analyze average prices of used cars across different brands  
